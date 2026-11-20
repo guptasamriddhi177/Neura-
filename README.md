@@ -10,6 +10,11 @@ Neura aims to transform the traditional AI interaction experience into something
 
 We believe intelligence should not feel distant or complicated. It should be something people can interact with, experiment with, and use to unlock their potential.
 
+![77a6a4d8-620d-401e-af2c-cf3ba31cda58_thumb](https://github.com/user-attachments/assets/88061478-3e29-41c7-bab3-067eec7a214e)
+
+<img width="720" height="1570" alt="e5b0c00e-9873-4c06-9443-74df8d6077a4_thumb" src="https://github.com/user-attachments/assets/10bad342-01e9-4c89-931d-7d86dc35c996" />
+
+
 ### Overview
 
 Artificial intelligence is rapidly becoming a part of how people learn, work, communicate, and develop ideas. However, most AI experiences remain limited to simple question-and-answer interactions.
@@ -56,6 +61,9 @@ The experience is centered around:
 
 Neura is not built around the idea that AI should do everything for the user. It is built around the idea that AI can help users do more themselves.
 
+<img width="720" height="1570" alt="ac24a2d2-4f5f-4b36-ba57-5e709585ccfd_thumb" src="https://github.com/user-attachments/assets/5d79066d-3e7f-4ee0-8884-43fe64b6c79f" />
+
+
 ### Core Capabilities
 
 ### Conversational Intelligence
@@ -101,6 +109,8 @@ The interface, interactions, and overall environment should work together to cre
 ### Simplicity
 
 Every interaction should have a purpose. Unnecessary complexity should not stand between users and the functionality they need.
+<img width="720" height="1570" alt="a5b2f83b-67e6-4873-83ea-61d66607a3cf_thumb" src="https://github.com/user-attachments/assets/35fbe271-951a-4ad4-b800-a14c6e9c05fe" />
+
 
 ### Accessibility
 
