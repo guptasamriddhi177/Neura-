@@ -1,0 +1,8 @@
+{
+  "name": "Neura",
+  "description": "Adaptive Socratic AI tutor for children ages 5-12. Warm chalkboard lessons personalized by subject, interest, learning method, age, and grade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,165 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fredoka", ui-rounded, system-ui, sans-serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-chalkboard: #14342B;
+  --color-chalkboard-light: #1D493D;
+  --color-cream: #FFF8EC;
+  --color-paper: #FFFDF8;
+  --color-sunny: #FFC83D;
+  --color-coral: #FF6B57;
+  --color-sky: #5CB8FF;
+  --color-storybook-sky: #C1D5F4;
+  --color-meadow: #CFE09B;
+  --color-meadow-deep: #B5CE74;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+    background-color: #FFFDF8;
+    color: #14342B;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+}
+
+.chalkboard-texture {
+  background-color: #14342B;
+  background-image:
+    radial-gradient(circle at 18% 22%, rgba(255, 248, 236, 0.06) 0%, transparent 45%),
+    radial-gradient(circle at 82% 75%, rgba(255, 200, 61, 0.05) 0%, transparent 42%),
+    radial-gradient(circle at 50% 50%, rgba(92, 184, 255, 0.03) 0%, transparent 60%);
+}
+
+.chalk-frame {
+  border: 2px dashed rgba(255, 248, 236, 0.34);
+}
+
+/* Ruled notebook paper with coral margin rule */
+.notebook-paper {
+  background-color: #FFFDF8;
+  background-image:
+    linear-gradient(90deg, transparent 43px, rgba(255, 107, 87, 0.34) 43px, rgba(255, 107, 87, 0.34) 45px, transparent 45px),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0px,
+      transparent 31px,
+      rgba(92, 184, 255, 0.24) 31px,
+      rgba(92, 184, 255, 0.24) 32px
+    );
+}
+
+/* Lighter full-section ruled paper (no tight left padding needed on mobile) */
+.notebook-section {
+  background-color: #FFFDF7;
+  background-image:
+    linear-gradient(90deg, transparent 7%, rgba(255, 107, 87, 0.22) 7%, rgba(255, 107, 87, 0.22) calc(7% + 2px), transparent calc(7% + 2px)),
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0px,
+      transparent 35px,
+      rgba(92, 184, 255, 0.2) 35px,
+      rgba(92, 184, 255, 0.2) 36px
+    );
+}
+
+.paper-card {
+  background-color: #FFFDF8;
+  background-image: radial-gradient(rgba(20, 52, 43, 0.04) 1px, transparent 0);
+  background-size: 16px 16px;
+}
+
+/* Hand-inked sketchbook sticker card */
+.sketch-card {
+  border: 2.5px solid #14342B;
+  box-shadow: 4px 5px 0px #14342B;
+}
+
+.sketch-btn {
+  border: 2.5px solid #14342B;
+  box-shadow: 3px 3px 0px #14342B;
+}
+
+.sketch-btn:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px #14342B;
+}
+
+/* Washi masking tape tabs */
+.paper-tape {
+  background-color: rgba(255, 200, 61, 0.72);
+  border-left: 2px dotted rgba(20, 52, 43, 0.22);
+  border-right: 2px dotted rgba(20, 52, 43, 0.22);
+  box-shadow: 0 1px 2px rgba(20, 52, 43, 0.14);
+}
+
+.washi-tape-coral {
+  background-color: rgba(255, 107, 87, 0.65);
+  border-left: 2px dotted rgba(255, 253, 248, 0.6);
+  border-right: 2px dotted rgba(255, 253, 248, 0.6);
+  box-shadow: 0 1px 2px rgba(20, 52, 43, 0.15);
+}
+
+.washi-tape-sky {
+  background-color: rgba(92, 184, 255, 0.6);
+  border-left: 2px dotted rgba(255, 253, 248, 0.6);
+  border-right: 2px dotted rgba(255, 253, 248, 0.6);
+  box-shadow: 0 1px 2px rgba(20, 52, 43, 0.15);
+}
+
+.chalk-underline {
+  background-image: url("data:image/svg+xml,%3Csvg width='160' height='12' viewBox='0 0 160 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2 8.5C38 4.2 114 2.5 158 7.5' stroke='%23FFC83D' stroke-width='4' stroke-linecap='round' stroke-dasharray='3 1'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 100% 10px;
+  padding-bottom: 6px;
+}
+
+@keyframes chalkWrite {
+  0% {
+    opacity: 0;
+    clip-path: inset(0 100% 0 0);
+    transform: translateY(4px);
+  }
+  100% {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+    transform: translateY(0);
+  }
+}
+
+.animate-chalk-write {
+  animation: chalkWrite 0.85s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes voiceWave {
+  0%, 100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+.animate-voice-wave {
+  animation: voiceWave 0.75s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-chalk-write,
+  .animate-voice-wave,
+  .transition-transform,
+  .transition-all {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+  }
+}

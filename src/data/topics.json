@@ -1,0 +1,2816 @@
+{
+  "Maths": {
+    "Pre-K": [
+      {
+        "id": "maths-pre-k-1",
+        "title": "Counting 1 to 5",
+        "description": "Count objects one by one up to 5",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-pre-k-2",
+        "title": "Counting 1 to 10",
+        "description": "Touch and count objects up to 10",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-pre-k-3",
+        "title": "Basic shapes",
+        "description": "Spot circles, squares, and triangles",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-pre-k-4",
+        "title": "Big and small",
+        "description": "Compare sizes of everyday objects",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-pre-k-5",
+        "title": "More or less",
+        "description": "Compare two small groups visually",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-pre-k-6",
+        "title": "Simple patterns",
+        "description": "Spot AB repeating patterns",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-pre-k-7",
+        "title": "Sorting by colour",
+        "description": "Group items by one clear feature",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-pre-k-8",
+        "title": "Number recognition",
+        "description": "Match numerals 1 to 5 to dots",
+        "difficulty": "Challenge"
+      }
+    ],
+    "K": [
+      {
+        "id": "maths-k-1",
+        "title": "Counting to 20",
+        "description": "Count forward and backward within 20",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-k-2",
+        "title": "Number bonds to 5",
+        "description": "Split 5 into two smaller parts",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-k-3",
+        "title": "Number bonds to 10",
+        "description": "Make 10 with dots and fingers",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-k-4",
+        "title": "Adding within 5",
+        "description": "Put two small groups together",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-k-5",
+        "title": "Taking away within 5",
+        "description": "Subtract by crossing out objects",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-k-6",
+        "title": "2D and 3D shapes",
+        "description": "Sort flat shapes from solid shapes",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-k-7",
+        "title": "Comparing length and height",
+        "description": "Use longer, shorter, taller words",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-k-8",
+        "title": "Teen numbers",
+        "description": "See 11 to 19 as ten and some more",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 1": [
+      {
+        "id": "maths-grade-1-1",
+        "title": "Addition within 20",
+        "description": "Count on and make ten to add",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-1-2",
+        "title": "Subtraction within 20",
+        "description": "Find missing parts within 20",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-1-3",
+        "title": "Place value: tens and ones",
+        "description": "Group cubes into tens and ones",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-1-4",
+        "title": "Comparing two-digit numbers",
+        "description": "Use greater than and less than",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-1-5",
+        "title": "Telling time to the hour",
+        "description": "Read hour and half-hour clocks",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-1-6",
+        "title": "Halves and quarters",
+        "description": "Split shapes into equal fair shares",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "maths-grade-1-7",
+        "title": "Measuring with units",
+        "description": "Measure objects end-to-end",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-1-8",
+        "title": "Skip counting by 2s, 5s, 10s",
+        "description": "Spot patterns on a number chart",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 2": [
+      {
+        "id": "maths-grade-2-1",
+        "title": "Place value",
+        "description": "Understand hundreds, tens, and ones",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-2-2",
+        "title": "Addition with carrying",
+        "description": "Regroup ones into a new ten",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-2-3",
+        "title": "Subtraction with borrowing",
+        "description": "Unbundle a ten to subtract",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "maths-grade-2-4",
+        "title": "Time",
+        "description": "Tell time to the nearest 5 minutes",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-2-5",
+        "title": "Shapes",
+        "description": "Count sides, vertices, and equal parts",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-2-6",
+        "title": "Counting coins and bills",
+        "description": "Combine coins to make target amounts",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-2-7",
+        "title": "Measuring in cm and inches",
+        "description": "Estimate and compare lengths",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-2-8",
+        "title": "Intro to equal groups",
+        "description": "Build arrays to prepare for multiplication",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 3": [
+      {
+        "id": "maths-grade-3-1",
+        "title": "Multiplication concepts",
+        "description": "Understand equal groups and arrays",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-3-2",
+        "title": "Division as fair sharing",
+        "description": "Split totals into equal groups",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-3-3",
+        "title": "Fractions on a number line",
+        "description": "Place unit fractions between 0 and 1",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-3-4",
+        "title": "Rounding to 10 and 100",
+        "description": "Estimate sums using benchmark numbers",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-3-5",
+        "title": "Perimeter and area",
+        "description": "Count boundary units vs inside squares",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-3-6",
+        "title": "Elapsed time",
+        "description": "Find how many minutes pass on a clock",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "maths-grade-3-7",
+        "title": "Bar graphs and picture graphs",
+        "description": "Read and compare data scales",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-3-8",
+        "title": "Two-step word problems",
+        "description": "Choose the right operations in sequence",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 4": [
+      {
+        "id": "maths-grade-4-1",
+        "title": "Fractions",
+        "description": "Compare and find equivalent fractions",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-4-2",
+        "title": "Multiplication",
+        "description": "Multiply multi-digit numbers using area models",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-4-3",
+        "title": "Area",
+        "description": "Find area and missing side lengths of rectangles",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-4-4",
+        "title": "Decimals",
+        "description": "Connect tenths and hundredths to fractions",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-4-5",
+        "title": "Long division with remainders",
+        "description": "Divide whole numbers into equal parts",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "maths-grade-4-6",
+        "title": "Angles and protractors",
+        "description": "Classify acute, right, and obtuse angles",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-4-7",
+        "title": "Factors and multiples",
+        "description": "Spot prime and composite numbers",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "maths-grade-4-8",
+        "title": "Adding mixed numbers",
+        "description": "Combine fractions with like denominators",
+        "difficulty": "Core"
+      }
+    ],
+    "Grade 5": [
+      {
+        "id": "maths-grade-5-1",
+        "title": "Adding unlike fractions",
+        "description": "Find common denominators before adding",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-5-2",
+        "title": "Multiplying decimals",
+        "description": "Place the decimal point by estimating",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-5-3",
+        "title": "Volume of prisms",
+        "description": "Count unit cubes and use L x W x H",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-5-4",
+        "title": "Order of operations",
+        "description": "Evaluate parentheses and expressions",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-5-5",
+        "title": "Dividing fractions by whole numbers",
+        "description": "Use visual bars to share fractions",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "maths-grade-5-6",
+        "title": "Coordinate plane",
+        "description": "Plot and read (x, y) ordered pairs",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-5-7",
+        "title": "Powers of ten",
+        "description": "Shift digits across place value columns",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-5-8",
+        "title": "Multi-step ratio reasoning",
+        "description": "Scale recipes and measurements up or down",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 6": [
+      {
+        "id": "maths-grade-6-1",
+        "title": "Ratios and unit rates",
+        "description": "Compare quantities using ratio tables",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-6-2",
+        "title": "Percentages",
+        "description": "Find percents of numbers mentally",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-6-3",
+        "title": "Negative numbers",
+        "description": "Order integers and find distance from zero",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "maths-grade-6-4",
+        "title": "Algebraic expressions",
+        "description": "Write and evaluate expressions with variables",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-6-5",
+        "title": "One-step equations",
+        "description": "Balance both sides to solve for x",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-6-6",
+        "title": "Dividing fractions by fractions",
+        "description": "Reason how many groups fit inside",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "maths-grade-6-7",
+        "title": "Area of triangles and polygons",
+        "description": "Decompose shapes into rectangles and triangles",
+        "difficulty": "Core"
+      },
+      {
+        "id": "maths-grade-6-8",
+        "title": "Mean, median, and spread",
+        "description": "Summarise real data sets accurately",
+        "difficulty": "Challenge"
+      }
+    ]
+  },
+  "English/Reading": {
+    "Pre-K": [
+      {
+        "id": "english-reading-pre-k-1",
+        "title": "Book handling and print",
+        "description": "Follow words from left to right",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-pre-k-2",
+        "title": "Listening to stories",
+        "description": "Name characters in a short tale",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-pre-k-3",
+        "title": "Rhyming pairs",
+        "description": "Hear words that end with the same sound",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-pre-k-4",
+        "title": "Picture clues",
+        "description": "Guess what happens next from pictures",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-pre-k-5",
+        "title": "Action and naming words",
+        "description": "Sort words for people, things, and actions",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-pre-k-6",
+        "title": "Retelling beginning and end",
+        "description": "Put 3 story events in order",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-pre-k-7",
+        "title": "Upper and lowercase match",
+        "description": "Match big letters with little letters",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-pre-k-8",
+        "title": "Asking story questions",
+        "description": "Ask who, what, and where about a picture",
+        "difficulty": "Challenge"
+      }
+    ],
+    "K": [
+      {
+        "id": "english-reading-k-1",
+        "title": "Story characters and setting",
+        "description": "Tell who is in the story and where",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-k-2",
+        "title": "Beginning, middle, end",
+        "description": "Sequence a 3-part narrative clearly",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-k-3",
+        "title": "Capital letters and periods",
+        "description": "Spot where a sentence starts and stops",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-k-4",
+        "title": "Making predictions",
+        "description": "Use clues to predict what happens next",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-k-5",
+        "title": "Describing words",
+        "description": "Pick vivid words to describe a noun",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-k-6",
+        "title": "Fact vs story",
+        "description": "Tell real information books from make-believe",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-k-7",
+        "title": "Question words",
+        "description": "Use who, what, when, where, why",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-k-8",
+        "title": "Clues from illustrations",
+        "description": "Connect words to what the picture shows",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 1": [
+      {
+        "id": "english-reading-grade-1-1",
+        "title": "Letter sounds",
+        "description": "Connect letters to crisp starting and ending sounds",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-1-2",
+        "title": "Sight words",
+        "description": "Read high-frequency words smoothly in sentences",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-1-3",
+        "title": "Simple sentences",
+        "description": "Build complete who + did what sentences",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-1-4",
+        "title": "Main idea of a short text",
+        "description": "Tell what a short paragraph is mostly about",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-1-5",
+        "title": "Comparing two characters",
+        "description": "Notice how two characters act differently",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-1-6",
+        "title": "Nouns, verbs, and adjectives",
+        "description": "Spot naming, action, and describing words",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-1-7",
+        "title": "Using context clues",
+        "description": "Figure out a new word from nearby words",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-1-8",
+        "title": "Punctuation marks",
+        "description": "Choose period, question mark, or exclamation mark",
+        "difficulty": "Core"
+      }
+    ],
+    "Grade 2": [
+      {
+        "id": "english-reading-grade-2-1",
+        "title": "Finding key details",
+        "description": "Answer why and how using text evidence",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-2-2",
+        "title": "Moral of a fable",
+        "description": "Discover the lesson a story teaches",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-2-3",
+        "title": "Compound sentences",
+        "description": "Join two ideas with and, but, or so",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-2-4",
+        "title": "Prefixes and suffixes",
+        "description": "See how un-, re-, and -ful change meaning",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-2-5",
+        "title": "Paragraph structure",
+        "description": "Match a topic sentence with supporting facts",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-2-6",
+        "title": "Dialogue and quotation marks",
+        "description": "Tell who is speaking in a story",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-2-7",
+        "title": "Irregular past tense",
+        "description": "Use went, saw, and wrote naturally",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-2-8",
+        "title": "Fact and opinion",
+        "description": "Separate provable facts from feelings",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 3": [
+      {
+        "id": "english-reading-grade-3-1",
+        "title": "Inferring character feelings",
+        "description": "Use actions as clues to how characters feel",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-3-2",
+        "title": "Text features in nonfiction",
+        "description": "Use headings, captions, and glossaries",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-3-3",
+        "title": "Cause and effect in reading",
+        "description": "Spot why an event happened and what followed",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-3-4",
+        "title": "Point of view",
+        "description": "Compare narrator voice vs reader view",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-3-5",
+        "title": "Similes and metaphors",
+        "description": "Understand playful comparisons in poems",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-3-6",
+        "title": "Writing strong topic paragraphs",
+        "description": "Organise details in logical order",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-3-7",
+        "title": "Root words and word families",
+        "description": "Unlock unfamiliar words using roots",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-3-8",
+        "title": "Summarising a chapter",
+        "description": "Keep only the most important events",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 4": [
+      {
+        "id": "english-reading-grade-4-1",
+        "title": "Theme vs main idea",
+        "description": "Distinguish life message from plot summary",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-4-2",
+        "title": "Supporting claims with quotes",
+        "description": "Pick the exact line that proves an answer",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-4-3",
+        "title": "First-person vs third-person",
+        "description": "Spot how narration changes what we know",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-4-4",
+        "title": "Text structures",
+        "description": "Recognise compare/contrast and problem/solution",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-4-5",
+        "title": "Idioms and proverbs",
+        "description": "Decode common figurative expressions",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-4-6",
+        "title": "Persuasive writing reasons",
+        "description": "Back up an opinion with clear evidence",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-4-7",
+        "title": "Synonyms, nuances, and tone",
+        "description": "Choose the word that fits the mood",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-4-8",
+        "title": "Synthesising two passages",
+        "description": "Combine facts from two short texts",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 5": [
+      {
+        "id": "english-reading-grade-5-1",
+        "title": "Analysing character growth",
+        "description": "Track how choices change a character",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-5-2",
+        "title": "Comparing themes across stories",
+        "description": "Contrast how two texts treat one idea",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-5-3",
+        "title": "Evaluating arguments",
+        "description": "Check whether claims are backed by evidence",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-5-4",
+        "title": "Greek and Latin roots",
+        "description": "Decode academic vocabulary from roots",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-5-5",
+        "title": "Transitions in essays",
+        "description": "Connect paragraphs with smooth logic",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-5-6",
+        "title": "Mood and tone in poetry",
+        "description": "Spot how word choice shapes atmosphere",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-5-7",
+        "title": "Direct vs indirect evidence",
+        "description": "Infer hidden motives from dialogue",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-5-8",
+        "title": "Editing for clarity",
+        "description": "Tighten wordy or repetitive sentences",
+        "difficulty": "Core"
+      }
+    ],
+    "Grade 6": [
+      {
+        "id": "english-reading-grade-6-1",
+        "title": "Central idea and objective summary",
+        "description": "Summarise nonfiction without personal bias",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-6-2",
+        "title": "Claim, evidence, and reasoning",
+        "description": "Build and critique persuasive arguments",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-6-3",
+        "title": "How plot shapes character",
+        "description": "Trace turning points in a narrative arc",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-6-4",
+        "title": "Connotation vs denotation",
+        "description": "See how loaded words steer a reader",
+        "difficulty": "Core"
+      },
+      {
+        "id": "english-reading-grade-6-5",
+        "title": "Analysing bias and perspective",
+        "description": "Ask whose voice is included or missing",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-6-6",
+        "title": "Parallel structure and style",
+        "description": "Write balanced, rhythmic sentences",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "english-reading-grade-6-7",
+        "title": "Symbolism in fiction",
+        "description": "Interpret objects that stand for bigger ideas",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "english-reading-grade-6-8",
+        "title": "Comparing historical accounts",
+        "description": "Compare primary and secondary perspectives",
+        "difficulty": "Challenge"
+      }
+    ]
+  },
+  "Phonics": {
+    "Pre-K": [
+      {
+        "id": "phonics-pre-k-1",
+        "title": "Listening for starting sounds",
+        "description": "Match pictures that begin with the same sound",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-pre-k-2",
+        "title": "Letter shapes and names",
+        "description": "Spot letters in familiar words",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-pre-k-3",
+        "title": "Syllable clapping",
+        "description": "Clap the beats in animal names",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-pre-k-4",
+        "title": "Rhyme time",
+        "description": "Pick the word that rhymes with cat",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-pre-k-5",
+        "title": "Mouth shapes for sounds",
+        "description": "Notice /m/, /s/, and /b/ sounds",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-pre-k-6",
+        "title": "Blending two parts",
+        "description": "Put sun + flower together",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-pre-k-7",
+        "title": "First sound swap",
+        "description": "Change /b/ in bat to /c/",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-pre-k-8",
+        "title": "Sound hunt around you",
+        "description": "Find objects starting with /t/ or /p/",
+        "difficulty": "Challenge"
+      }
+    ],
+    "K": [
+      {
+        "id": "phonics-k-1",
+        "title": "Short a and i sounds",
+        "description": "Hear and read /a/ and /i/ in CVC words",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-k-2",
+        "title": "Short o, u, e sounds",
+        "description": "Blend three-letter short-vowel words",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-k-3",
+        "title": "CVC blending",
+        "description": "Tap each sound and slide into a word",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-k-4",
+        "title": "Consonant digraphs sh and ch",
+        "description": "Read two letters making one sound",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-k-5",
+        "title": "Digraphs th and wh",
+        "description": "Tell /th/ from /f/ and /wh/",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-k-6",
+        "title": "Segmenting 3-sound words",
+        "description": "Break dog into /d/ /o/ /g/",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-k-7",
+        "title": "Word families -at and -an",
+        "description": "Build rhyming chains by swapping onset",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-k-8",
+        "title": "Double endings ff, ll, ss",
+        "description": "Spot the FLOSS spelling rule",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 1": [
+      {
+        "id": "phonics-grade-1-1",
+        "title": "Initial consonant blends",
+        "description": "Blend st-, bl-, cr-, and tr- smoothly",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-1-2",
+        "title": "Final blends -nd, -st, -mp",
+        "description": "Hear both consonants at the end",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-1-3",
+        "title": "Magic e (silent e)",
+        "description": "See how final e makes vowels say their name",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-1-4",
+        "title": "Long a: ai and ay",
+        "description": "Choose ai in the middle and ay at the end",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-1-5",
+        "title": "Long e: ee and ea",
+        "description": "Read vowel teams for long /e/",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-1-6",
+        "title": "R-controlled vowels ar, or",
+        "description": "Hear bossy R change the vowel",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-1-7",
+        "title": "Inflectional endings -s, -ing",
+        "description": "Add endings without losing the base word",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-1-8",
+        "title": "Two-syllable closed words",
+        "description": "Split words like rab-bit and bas-ket",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 2": [
+      {
+        "id": "phonics-grade-2-1",
+        "title": "Vowel teams oa, ow, oe",
+        "description": "Spell long /o/ words by position",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-2-2",
+        "title": "R-controlled er, ir, ur",
+        "description": "Sort same-sound r-controlled spellings",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-2-3",
+        "title": "Diphthongs oi, oy, ou, ow",
+        "description": "Hear gliding vowel sounds clearly",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-2-4",
+        "title": "Soft c and soft g",
+        "description": "Spot when e, i, y soften c and g",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-2-5",
+        "title": "Silent letters kn, wr, mb",
+        "description": "Read tricky silent-consonant patterns",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-2-6",
+        "title": "Syllable division VCV",
+        "description": "Split open vs closed first syllables",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-grade-2-7",
+        "title": "Contractions and apostrophes",
+        "description": "Combine two words like did + not",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-2-8",
+        "title": "Homophones hear vs here",
+        "description": "Use spelling clues to pick the meaning",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 3": [
+      {
+        "id": "phonics-grade-3-1",
+        "title": "Open and closed syllables",
+        "description": "Predict vowel sound from syllable endings",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-3-2",
+        "title": "Consonant-le syllables",
+        "description": "Decode words ending in -ble, -tle, -dle",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-3-3",
+        "title": "Vowel-team fluency",
+        "description": "Read multisyllabic words with vowel teams",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-3-4",
+        "title": "Prefixes un-, re-, dis-, pre-",
+        "description": "Break long words into prefix + base",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-3-5",
+        "title": "Suffixes -ful, -less, -ly, -tion",
+        "description": "Spot how endings shift word jobs",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-3-6",
+        "title": "Doubling rule (1-1-1)",
+        "description": "Know when to double the final consonant",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-grade-3-7",
+        "title": "Drop-e spelling rule",
+        "description": "Drop silent e before vowel suffixes",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-3-8",
+        "title": "Schwa sound in unstressed syllables",
+        "description": "Hear the relaxed uh vowel in longer words",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 4": [
+      {
+        "id": "phonics-grade-4-1",
+        "title": "Six syllable types review",
+        "description": "Decode unfamiliar 3- and 4-syllable words",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-4-2",
+        "title": "Changing y to i rule",
+        "description": "Spell plurals and past tense from y words",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-4-3",
+        "title": "Suffixes -able and -ible",
+        "description": "Choose the right ending using word roots",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-4-4",
+        "title": "Latin prefixes sub-, inter-, trans-",
+        "description": "Decode science and history terms",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-4-5",
+        "title": "Greek ph, ch (/k/), y (/i/)",
+        "description": "Recognise Greek spelling patterns",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-grade-4-6",
+        "title": "Multisyllabic stress patterns",
+        "description": "Find which syllable carries the stress",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-4-7",
+        "title": "Tricky homograph pronunciations",
+        "description": "Use context for lead/lead or read/read",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-4-8",
+        "title": "Morphology word building",
+        "description": "Build 5 related words from one root",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 5": [
+      {
+        "id": "phonics-grade-5-1",
+        "title": "Greek roots bio, geo, therm",
+        "description": "Decode technical science words fast",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-5-2",
+        "title": "Latin roots struct, port, dict",
+        "description": "Connect meaning across word families",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-5-3",
+        "title": "Assimilated prefixes in-, im-, il-",
+        "description": "See why prefixes shift before certain letters",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-grade-5-4",
+        "title": "Suffixes -ous, -ious, -tious",
+        "description": "Spell adjective endings with confidence",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-5-5",
+        "title": "Silent letter etymology",
+        "description": "Explore why knight and sign keep silent letters",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-5-6",
+        "title": "Word stress shifts",
+        "description": "Notice stress changes in photograph/photography",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-grade-5-7",
+        "title": "Syllable-juncture spelling",
+        "description": "Master VCV vs VCCV consonant patterns",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-5-8",
+        "title": "Academic fluency decoding",
+        "description": "Chunk complex multi-affix words smoothly",
+        "difficulty": "Core"
+      }
+    ],
+    "Grade 6": [
+      {
+        "id": "phonics-grade-6-1",
+        "title": "Advanced Greek and Latin roots",
+        "description": "Unlock secondary-level vocabulary independently",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-6-2",
+        "title": "Suffixes -ence vs -ance",
+        "description": "Use related word clues to spell correctly",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-6-3",
+        "title": "Suffixes -able vs -ible mastery",
+        "description": "Apply root-based spelling checks",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-6-4",
+        "title": "Prefix nuances anti-, contra-, counter-",
+        "description": "Compare opposing prefixes in context",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "phonics-grade-6-5",
+        "title": "Borrowed word patterns",
+        "description": "Decode French and Greek loanwords",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-grade-6-6",
+        "title": "Morpheme decomposition",
+        "description": "Break 5-syllable words into meaning units",
+        "difficulty": "Core"
+      },
+      {
+        "id": "phonics-grade-6-7",
+        "title": "Consonant alternation",
+        "description": "Link silent/spoken letters (sign/signal)",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "phonics-grade-6-8",
+        "title": "Precision pronunciation and fluency",
+        "description": "Read dense informational prose smoothly",
+        "difficulty": "Core"
+      }
+    ]
+  },
+  "Science": {
+    "Pre-K": [
+      {
+        "id": "science-pre-k-1",
+        "title": "Living vs non-living",
+        "description": "Tell plants and animals from rocks and toys",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-pre-k-2",
+        "title": "Our five senses",
+        "description": "Match eyes, ears, nose, tongue, and hands",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-pre-k-3",
+        "title": "Day and night sky",
+        "description": "Notice the sun, moon, and stars",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-pre-k-4",
+        "title": "Weather watch",
+        "description": "Describe sunny, rainy, windy, and snowy days",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-pre-k-5",
+        "title": "Sink or float",
+        "description": "Predict what stays on top of water",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-pre-k-6",
+        "title": "Animal homes",
+        "description": "Match animals to nests, burrows, and ponds",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-pre-k-7",
+        "title": "Push and pull",
+        "description": "Move toys using gentle pushes and pulls",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-pre-k-8",
+        "title": "Growing seeds",
+        "description": "Notice what a tiny seed needs to sprout",
+        "difficulty": "Challenge"
+      }
+    ],
+    "K": [
+      {
+        "id": "science-k-1",
+        "title": "What plants and animals need",
+        "description": "Compare water, light, food, and air",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-k-2",
+        "title": "Weather patterns",
+        "description": "Track warm, cool, windy, and cloudy days",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-k-3",
+        "title": "Pushes, pulls, and speed",
+        "description": "See how harder pushes change motion",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-k-4",
+        "title": "Sorting materials",
+        "description": "Group wood, metal, cloth, and plastic",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-k-5",
+        "title": "Baby animals and parents",
+        "description": "Match young animals to grown-ups",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-k-6",
+        "title": "Sunlight warms Earth",
+        "description": "Compare shady spots with sunny spots",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-k-7",
+        "title": "Protecting our Earth",
+        "description": "Reuse, recycle, and save water",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-k-8",
+        "title": "Making shadows",
+        "description": "Block light with objects to form shadows",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 1": [
+      {
+        "id": "science-grade-1-1",
+        "title": "Sound and vibrations",
+        "description": "Feel how vibrating things make sound",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-1-2",
+        "title": "Light and shadows",
+        "description": "Test transparent, translucent, and opaque items",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-1-3",
+        "title": "Plant parts and jobs",
+        "description": "Connect roots, stems, leaves, and flowers",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-1-4",
+        "title": "Animal body parts",
+        "description": "See how beaks, claws, and shells help survival",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-1-5",
+        "title": "Patterns of sun and moon",
+        "description": "Observe sunrise, sunset, and moon shapes",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-1-6",
+        "title": "Seasons and daylight",
+        "description": "Notice shorter winter days and longer summer days",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-1-7",
+        "title": "How parents care for young",
+        "description": "Spot survival behaviours in nature",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-1-8",
+        "title": "Design a shade shelter",
+        "description": "Solve a warming problem with materials",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 2": [
+      {
+        "id": "science-grade-2-1",
+        "title": "Solids and liquids",
+        "description": "Compare shape and flow of different matter",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-2-2",
+        "title": "Heating and cooling changes",
+        "description": "Spot reversible vs permanent changes",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-2-3",
+        "title": "Pollination and seed dispersal",
+        "description": "See how bees and wind help plants spread",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-2-4",
+        "title": "Habitats and biodiversity",
+        "description": "Compare desert, forest, and pond life",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-2-5",
+        "title": "Landforms and water",
+        "description": "Identify mountains, valleys, rivers, and islands",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-2-6",
+        "title": "Slow vs fast Earth changes",
+        "description": "Compare erosion with sudden earthquakes",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "science-grade-2-7",
+        "title": "Testing material strength",
+        "description": "Choose the best material for a bridge",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-2-8",
+        "title": "Water cycle basics",
+        "description": "Follow water as rain, puddles, and clouds",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 3": [
+      {
+        "id": "science-grade-3-1",
+        "title": "Plants",
+        "description": "Explore how leaves make food and roots drink water",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-3-2",
+        "title": "States of matter",
+        "description": "Compare solids, liquids, and gases by particles",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-3-3",
+        "title": "The solar system",
+        "description": "Order the planets and explore orbits around the sun",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-3-4",
+        "title": "Balanced and unbalanced forces",
+        "description": "Predict motion when pushes compete",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-3-5",
+        "title": "Magnets and static force",
+        "description": "Explore attraction and repulsion without touching",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-3-6",
+        "title": "Life cycles",
+        "description": "Compare frog, butterfly, and flowering plant cycles",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-3-7",
+        "title": "Fossils as past clues",
+        "description": "Read ancient environments from fossil records",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "science-grade-3-8",
+        "title": "Weather vs climate",
+        "description": "Compare daily forecasts with long-term zones",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 4": [
+      {
+        "id": "science-grade-4-1",
+        "title": "Energy and motion",
+        "description": "Link speed to kinetic energy in collisions",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-4-2",
+        "title": "Energy transfer: heat and light",
+        "description": "Trace energy changing from one form to another",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-4-3",
+        "title": "Waves: amplitude and wavelength",
+        "description": "See how wave height and spacing carry signals",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "science-grade-4-4",
+        "title": "Plant and animal structures",
+        "description": "Explain internal and external survival systems",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-4-5",
+        "title": "How we see light",
+        "description": "Follow light bouncing off objects into the eye",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-4-6",
+        "title": "Rock layers and weathering",
+        "description": "Read how wind and water carve landscapes",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-4-7",
+        "title": "Renewable vs nonrenewable energy",
+        "description": "Compare solar, wind, and fossil fuels",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-4-8",
+        "title": "Simple electric circuits",
+        "description": "Build a complete loop to light a bulb",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 5": [
+      {
+        "id": "science-grade-5-1",
+        "title": "Conservation of matter",
+        "description": "See why weight stays constant when ice melts",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-5-2",
+        "title": "Chemical vs physical changes",
+        "description": "Spot clues of a brand-new substance forming",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-5-3",
+        "title": "Ecosystems and food webs",
+        "description": "Trace sun energy through producers and consumers",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-5-4",
+        "title": "Earth spheres interacting",
+        "description": "Connect atmosphere, hydrosphere, geosphere, biosphere",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-5-5",
+        "title": "Gravity and orbits",
+        "description": "Explain why gravity pulls down and keeps moons orbiting",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-5-6",
+        "title": "Stars and brightness",
+        "description": "Compare true brightness vs distance from Earth",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "science-grade-5-7",
+        "title": "Water distribution on Earth",
+        "description": "Compare salty oceans to tiny freshwater stores",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-5-8",
+        "title": "Designing water filters",
+        "description": "Test layers that clean muddy water",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 6": [
+      {
+        "id": "science-grade-6-1",
+        "title": "Cells: building blocks of life",
+        "description": "Compare plant and animal cell parts",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "science-grade-6-2",
+        "title": "Body systems working together",
+        "description": "Trace oxygen from lungs to muscles",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-6-3",
+        "title": "Thermal energy and particle motion",
+        "description": "Explain heat flow from warm to cool",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-6-4",
+        "title": "Plate tectonics and volcanoes",
+        "description": "Connect moving plates to earthquakes and ridges",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-6-5",
+        "title": "Genetics and traits",
+        "description": "Compare inherited traits with learned behaviours",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "science-grade-6-6",
+        "title": "Human impact on climate",
+        "description": "Analyse greenhouse gases and solutions",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "science-grade-6-7",
+        "title": "Photosynthesis and respiration",
+        "description": "See how plants cycle carbon and oxygen",
+        "difficulty": "Core"
+      },
+      {
+        "id": "science-grade-6-8",
+        "title": "Scientific variables and fair tests",
+        "description": "Design controlled experiments with one variable",
+        "difficulty": "Starter"
+      }
+    ]
+  },
+  "Social Studies": {
+    "Pre-K": [
+      {
+        "id": "social-studies-pre-k-1",
+        "title": "My family and home",
+        "description": "Talk about people who care for us",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-pre-k-2",
+        "title": "Community helpers",
+        "description": "Spot firefighters, doctors, teachers, and bakers",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-pre-k-3",
+        "title": "Rules keep us safe",
+        "description": "Understand sharing and taking turns",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-pre-k-4",
+        "title": "Maps are pictures from above",
+        "description": "Read a simple picture map of a bedroom",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-pre-k-5",
+        "title": "Same and different",
+        "description": "Celebrate traditions and foods around the world",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-pre-k-6",
+        "title": "Needs vs wants",
+        "description": "Tell food and shelter from extra toys",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-pre-k-7",
+        "title": "Yesterday, today, tomorrow",
+        "description": "Order daily routines across time",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-pre-k-8",
+        "title": "Caring for our classroom",
+        "description": "Work together to keep spaces tidy",
+        "difficulty": "Challenge"
+      }
+    ],
+    "K": [
+      {
+        "id": "social-studies-k-1",
+        "title": "Neighbourhood maps",
+        "description": "Find parks, schools, and roads on a map",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-k-2",
+        "title": "Needs and wants",
+        "description": "Choose essentials before treats",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-k-3",
+        "title": "Good citizenship",
+        "description": "Practise fairness, honesty, and kindness",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-k-4",
+        "title": "Helpers in our town",
+        "description": "Match tools to the workers who use them",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-k-5",
+        "title": "Long ago vs today",
+        "description": "Compare old-time lamps and wagons with today",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-k-6",
+        "title": "Symbols and flags",
+        "description": "Recognise community symbols and their meanings",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-k-7",
+        "title": "Rules at home and school",
+        "description": "Explain why rules protect everyone",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-k-8",
+        "title": "Where food comes from",
+        "description": "Follow food from farm to table",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 1": [
+      {
+        "id": "social-studies-grade-1-1",
+        "title": "Compass directions N, S, E, W",
+        "description": "Navigate a town map using cardinal directions",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-1-2",
+        "title": "Goods and services",
+        "description": "Distinguish buying objects from paying for help",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-1-3",
+        "title": "Producers and consumers",
+        "description": "See how people both make and buy things",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-1-4",
+        "title": "Family traditions across cultures",
+        "description": "Explore celebrations around the globe",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-1-5",
+        "title": "Timelines of my life",
+        "description": "Put past milestones in chronological order",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-1-6",
+        "title": "Voting and fair choices",
+        "description": "See how groups make decisions together",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-1-7",
+        "title": "Saving and spending",
+        "description": "Plan how to save coins for a goal",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-1-8",
+        "title": "Natural resources",
+        "description": "Spot water, soil, and trees we depend on",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 2": [
+      {
+        "id": "social-studies-grade-2-1",
+        "title": "Continents and oceans",
+        "description": "Locate the seven continents and five oceans",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-2-2",
+        "title": "Urban, suburban, and rural",
+        "description": "Compare city life, suburbs, and farms",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-2-3",
+        "title": "Local government leaders",
+        "description": "Learn what mayors and councils do",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-2-4",
+        "title": "Supply, demand, and scarcity",
+        "description": "Why scarce items cost more or sell out",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "social-studies-grade-2-5",
+        "title": "Reading map legends and scales",
+        "description": "Use symbols and distance bars on maps",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-2-6",
+        "title": "Inventors who changed daily life",
+        "description": "Trace how inventions solved everyday problems",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-2-7",
+        "title": "Barter vs money",
+        "description": "Why societies moved from trading to currency",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-2-8",
+        "title": "Protecting landmarks",
+        "description": "Why communities preserve historic places",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 3": [
+      {
+        "id": "social-studies-grade-3-1",
+        "title": "Regions and landforms",
+        "description": "Explore how climate shapes how people live",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-3-2",
+        "title": "Branches of government",
+        "description": "Compare making, enforcing, and judging laws",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-3-3",
+        "title": "Indigenous peoples and early settlements",
+        "description": "Learn respectful history of first inhabitants",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-3-4",
+        "title": "Trade and specialisation",
+        "description": "Why regions trade goods they make best",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-3-5",
+        "title": "Primary vs secondary sources",
+        "description": "Tell diaries and photos from textbooks",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-3-6",
+        "title": "Rights and responsibilities",
+        "description": "Balance personal freedoms with civic duty",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-3-7",
+        "title": "Latitude and longitude",
+        "description": "Find coordinates on a globe grid",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "social-studies-grade-3-8",
+        "title": "Entrepreneurship basics",
+        "description": "Plan a tiny neighbourhood lemonade business",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 4": [
+      {
+        "id": "social-studies-grade-4-1",
+        "title": "Geography shapes history",
+        "description": "See why cities grow near rivers and harbours",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-4-2",
+        "title": "Migration and movement",
+        "description": "Explore why families move across regions",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-4-3",
+        "title": "State and regional governance",
+        "description": "Understand taxes, public schools, and roads",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-4-4",
+        "title": "Agricultural and industrial shifts",
+        "description": "How tools changed farming and factories",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-4-5",
+        "title": "Comparing historical viewpoints",
+        "description": "Read two perspectives on the same event",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "social-studies-grade-4-6",
+        "title": "Budgets and opportunity cost",
+        "description": "Every choice means giving up another option",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-4-7",
+        "title": "Cultural diffusion",
+        "description": "See how music, food, and words travel",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-4-8",
+        "title": "Civic action projects",
+        "description": "How young citizens improve their towns",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 5": [
+      {
+        "id": "social-studies-grade-5-1",
+        "title": "Age of exploration and exchange",
+        "description": "Trace goods, crops, and impacts across oceans",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-5-2",
+        "title": "Constitutions and rule of law",
+        "description": "Why written laws limit leaders power",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-5-3",
+        "title": "Colonial and independence movements",
+        "description": "Understand causes and turning points",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-5-4",
+        "title": "Evaluating historical evidence",
+        "description": "Question bias and reliability in sources",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "social-studies-grade-5-5",
+        "title": "Global trade networks",
+        "description": "Follow a sneaker from design to store",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-5-6",
+        "title": "Checks and balances",
+        "description": "Preventing one branch from holding all power",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-5-7",
+        "title": "Human rights milestones",
+        "description": "Explore how everyday people expanded rights",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-5-8",
+        "title": "Banking, interest, and saving",
+        "description": "Compare simple saving vs borrowing costs",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 6": [
+      {
+        "id": "social-studies-grade-6-1",
+        "title": "Ancient river civilisations",
+        "description": "Compare Mesopotamia, Egypt, Indus, and China",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-6-2",
+        "title": "Classical Greece and Rome",
+        "description": "Explore early democracy, republics, and law",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-6-3",
+        "title": "Silk Road and cultural exchange",
+        "description": "Track ideas, silk, paper, and spices",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-6-4",
+        "title": "World religions and philosophies",
+        "description": "Understand core values with respect",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-6-5",
+        "title": "Comparing economic systems",
+        "description": "Traditional, market, and mixed economies",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "social-studies-grade-6-6",
+        "title": "Archaeology and artefacts",
+        "description": "Deduce daily life from uncovered objects",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "social-studies-grade-6-7",
+        "title": "Global citizenship and sustainability",
+        "description": "Connect local choices to global ecosystems",
+        "difficulty": "Core"
+      },
+      {
+        "id": "social-studies-grade-6-8",
+        "title": "Historical cause and consequence",
+        "description": "Separate long-term triggers from sparks",
+        "difficulty": "Challenge"
+      }
+    ]
+  },
+  "Coding basics": {
+    "Pre-K": [
+      {
+        "id": "coding-basics-pre-k-1",
+        "title": "Step-by-step instructions",
+        "description": "Give clear order steps to brush teeth",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-pre-k-2",
+        "title": "Direction arrows",
+        "description": "Move a toy frog using up, down, left, right",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-pre-k-3",
+        "title": "Spot the pattern",
+        "description": "Continue a beat or colour sequence",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-pre-k-4",
+        "title": "Fix the mix-up",
+        "description": "Find which step is out of order",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-pre-k-5",
+        "title": "If it rains, bring a coat",
+        "description": "Practise simple cause-and-effect rules",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-pre-k-6",
+        "title": "Sort like a computer",
+        "description": "Group blocks by shape then colour",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-pre-k-7",
+        "title": "Repeat the dance",
+        "description": "Repeat 3 moves twice without listing them all",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-pre-k-8",
+        "title": "Secret symbol codes",
+        "description": "Match animal pictures to sound actions",
+        "difficulty": "Challenge"
+      }
+    ],
+    "K": [
+      {
+        "id": "coding-basics-k-1",
+        "title": "Algorithms in daily life",
+        "description": "Order 4 steps to make a sandwich",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-k-2",
+        "title": "Grid navigation",
+        "description": "Guide Nu across a 4x4 grid to an apple",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-k-3",
+        "title": "Debugging a wrong turn",
+        "description": "Spot and fix one wrong arrow in a path",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-k-4",
+        "title": "Simple loops (repeat x3)",
+        "description": "Shorten repeated moves with a loop block",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-k-5",
+        "title": "Events: when button pressed",
+        "description": "Link a trigger to an action",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-k-6",
+        "title": "True or false checks",
+        "description": "Answer yes/no logic questions accurately",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-k-7",
+        "title": "Pattern compression",
+        "description": "Spot shortcuts in long tile trails",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "coding-basics-k-8",
+        "title": "Pixel art grids",
+        "description": "Colour squares using row and column clues",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 1": [
+      {
+        "id": "coding-basics-grade-1-1",
+        "title": "Sequencing precise commands",
+        "description": "Write exact step order so nothing crashes",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-1-2",
+        "title": "Counted loops",
+        "description": "Use repeat blocks to draw squares",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-1-3",
+        "title": "Debugging step-by-step",
+        "description": "Trace one line at a time to catch bugs",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-1-4",
+        "title": "Simple conditionals (If/Then)",
+        "description": "React when hitting a wall or coin",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-1-5",
+        "title": "Binary light switches",
+        "description": "Represent on/off with 1 and 0",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-1-6",
+        "title": "Decomposition",
+        "description": "Break a big drawing into small shapes",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-1-7",
+        "title": "Sorting algorithms by hand",
+        "description": "Order numbers from smallest to largest",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-1-8",
+        "title": "Maze solver challenge",
+        "description": "Find the shortest path with loops",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 2": [
+      {
+        "id": "coding-basics-grade-2-1",
+        "title": "Nested steps and loops",
+        "description": "Repeat a small pattern inside a bigger path",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-2-2",
+        "title": "If / Else branching",
+        "description": "Pick between two paths using a rule",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-2-3",
+        "title": "Variables as labelled boxes",
+        "description": "Store and update a game score",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-2-4",
+        "title": "Events and parallel actions",
+        "description": "Make two characters act on a signal",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-2-5",
+        "title": "Pixel coordinates",
+        "description": "Plot sprite positions on a simple grid",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-2-6",
+        "title": "Logical AND / OR",
+        "description": "Combine two conditions to unlock a door",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "coding-basics-grade-2-7",
+        "title": "Efficient code golf",
+        "description": "Reach the goal using fewer blocks",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-2-8",
+        "title": "Pattern recognition in puzzles",
+        "description": "Spot reusable helper routines",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 3": [
+      {
+        "id": "coding-basics-grade-3-1",
+        "title": "Functions as reusable recipes",
+        "description": "Name a chunk of steps and call it twice",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-3-2",
+        "title": "Variables and counters",
+        "description": "Track lives, points, and timers cleanly",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-3-3",
+        "title": "While loops (until goal)",
+        "description": "Keep stepping until a condition turns true",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-3-4",
+        "title": "Debugging logic errors",
+        "description": "Fix code that runs without crashing but fails",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-3-5",
+        "title": "Binary numbers 0 to 15",
+        "description": "Count using powers of 2 with cards",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "coding-basics-grade-3-6",
+        "title": "Input, process, output",
+        "description": "Trace how keyboards turn clicks into action",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-3-7",
+        "title": "Animation frames",
+        "description": "Flip between costumes at steady timing",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-3-8",
+        "title": "Mini-game state logic",
+        "description": "Handle start, playing, and win states",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 4": [
+      {
+        "id": "coding-basics-grade-4-1",
+        "title": "Functions with parameters",
+        "description": "Pass size or colour into a reusable block",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-4-2",
+        "title": "Lists and arrays",
+        "description": "Store an inventory of items in order",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-4-3",
+        "title": "Modulo and remainders in code",
+        "description": "Use remainders to cycle turns or patterns",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "coding-basics-grade-4-4",
+        "title": "Boolean logic gates",
+        "description": "Trace AND, OR, NOT truth tables",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-4-5",
+        "title": "Coordinate geometry in sprites",
+        "description": "Move characters with x and y velocity",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-4-6",
+        "title": "Randomness in games",
+        "description": "Use random ranges fairly for loot or spawns",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-4-7",
+        "title": "Linear search step count",
+        "description": "Count steps to find an item in a list",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-4-8",
+        "title": "Ethical tech and passwords",
+        "description": "Spot strong passphrases and safe sharing",
+        "difficulty": "Starter"
+      }
+    ],
+    "Grade 5": [
+      {
+        "id": "coding-basics-grade-5-1",
+        "title": "Nested loops for grids",
+        "description": "Draw checkerboards and multiplication tables",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-5-2",
+        "title": "Binary search strategy",
+        "description": "Cut a sorted list in half each guess",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-5-3",
+        "title": "Strings and slicing",
+        "description": "Manipulate text, initials, and ciphers",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-5-4",
+        "title": "Event-driven game loops",
+        "description": "Update positions every tick cleanly",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-5-5",
+        "title": "Debugging edge cases",
+        "description": "Test zero, empty lists, and boundaries",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "coding-basics-grade-5-6",
+        "title": "Data representation (RGB)",
+        "description": "Mix red, green, blue numbers for colours",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-5-7",
+        "title": "Algorithm efficiency",
+        "description": "Compare fast vs slow ways to sort cards",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "coding-basics-grade-5-8",
+        "title": "How the internet sends packets",
+        "description": "Split a message into numbered packets",
+        "difficulty": "Core"
+      }
+    ],
+    "Grade 6": [
+      {
+        "id": "coding-basics-grade-6-1",
+        "title": "Variables, types, and scope",
+        "description": "Track numbers, strings, and booleans cleanly",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-6-2",
+        "title": "Looping over lists",
+        "description": "Calculate totals, averages, and max values",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-6-3",
+        "title": "Functions returning values",
+        "description": "Compute results and pass them onward",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-6-4",
+        "title": "Dictionaries / key-value maps",
+        "description": "Look up scores or words by name",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-6-5",
+        "title": "Encryption and Caesar ciphers",
+        "description": "Shift letters to hide and decode secrets",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "coding-basics-grade-6-6",
+        "title": "Recursion intuition",
+        "description": "Solve a problem using a smaller version of itself",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "coding-basics-grade-6-7",
+        "title": "Tracing pseudocode",
+        "description": "Predict exact output of short code snippets",
+        "difficulty": "Core"
+      },
+      {
+        "id": "coding-basics-grade-6-8",
+        "title": "AI and pattern training basics",
+        "description": "See how examples teach classifiers without magic",
+        "difficulty": "Challenge"
+      }
+    ]
+  },
+  "Life skills": {
+    "Pre-K": [
+      {
+        "id": "life-skills-pre-k-1",
+        "title": "Naming big feelings",
+        "description": "Match happy, sad, mad, and worried faces",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-pre-k-2",
+        "title": "Calm belly breathing",
+        "description": "Take slow breaths when frustrated",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-pre-k-3",
+        "title": "Sharing and taking turns",
+        "description": "Use kind words to ask for a turn",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-pre-k-4",
+        "title": "Washing hands properly",
+        "description": "Follow steps to scrub germs away",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-pre-k-5",
+        "title": "Tidying up after play",
+        "description": "Put toys back in their home spots",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-pre-k-6",
+        "title": "Asking a grown-up for help",
+        "description": "Speak clearly when you need support",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-pre-k-7",
+        "title": "Listening with whole body",
+        "description": "Eyes, ears, and calm hands when others speak",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-pre-k-8",
+        "title": "Trying something new",
+        "description": "Take one brave tiny step on a hard day",
+        "difficulty": "Challenge"
+      }
+    ],
+    "K": [
+      {
+        "id": "life-skills-k-1",
+        "title": "Growth mindset: power of yet",
+        "description": "Turn I cannot into I cannot yet",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-k-2",
+        "title": "Polite greetings and manners",
+        "description": "Use please, thank you, and excuse me",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-k-3",
+        "title": "Packing my school bag",
+        "description": "Check water, snack, and folder daily",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-k-4",
+        "title": "Healthy snack choices",
+        "description": "Balance colourful fruits with treats",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-k-5",
+        "title": "Road and crossing safety",
+        "description": "Stop, look left and right, and listen",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-k-6",
+        "title": "Being a good friend",
+        "description": "Include others and listen to their ideas",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-k-7",
+        "title": "Tying shoes and dressing",
+        "description": "Break tricky routines into small steps",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-k-8",
+        "title": "Fixing a mistake kindly",
+        "description": "Say sorry and help make it right",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 1": [
+      {
+        "id": "life-skills-grade-1-1",
+        "title": "Taming worry and frustration",
+        "description": "Use calm-down tools before reacting",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-1-2",
+        "title": "Listening without interrupting",
+        "description": "Wait for a pause and ask a follow-up",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-1-3",
+        "title": "Saving coins in three jars",
+        "description": "Split money into spend, save, and share",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-1-4",
+        "title": "Morning and bedtime routines",
+        "description": "Plan 4 steps for smooth mornings",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-1-5",
+        "title": "Kitchen helper safety",
+        "description": "Learn safe pouring, washing, and hot-surface rules",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-1-6",
+        "title": "Handling losing a game",
+        "description": "Show good sportsmanship win or lose",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-1-7",
+        "title": "Emergency numbers and address",
+        "description": "Know key safety info by heart",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-1-8",
+        "title": "Setting a tiny weekly goal",
+        "description": "Pick one habit and track 5 days",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 2": [
+      {
+        "id": "life-skills-grade-2-1",
+        "title": "Empathy: walking in others shoes",
+        "description": "Guess how a classmate feels and why",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-2-2",
+        "title": "Smart screen habits",
+        "description": "Balance screens with outdoor play and rest",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-2-3",
+        "title": "Needs vs wants with pocket money",
+        "description": "Compare prices before buying",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-2-4",
+        "title": "Resolving playground disagreements",
+        "description": "Use I-feel statements calmly",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-2-5",
+        "title": "Organising homework space",
+        "description": "Gather pencils, paper, and quiet focus",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-2-6",
+        "title": "Reading food labels",
+        "description": "Spot sugar and whole ingredients simply",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "life-skills-grade-2-7",
+        "title": "Caring for pets and plants",
+        "description": "Track daily feeding and water checklists",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-2-8",
+        "title": "Giving honest compliments",
+        "description": "Notice specific effort in someone else",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 3": [
+      {
+        "id": "life-skills-grade-3-1",
+        "title": "Time management for homework",
+        "description": "Break a 30-minute task into 10-minute chunks",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-3-2",
+        "title": "Online kindness and privacy",
+        "description": "Never share full names, school, or passwords",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-3-3",
+        "title": "Making a simple healthy snack",
+        "description": "Follow recipe order and clean up after",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-3-4",
+        "title": "Dealing with peer pressure",
+        "description": "Say no politely when something feels unsafe",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-3-5",
+        "title": "Comparison shopping",
+        "description": "Check unit price and quality, not just flash",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-3-6",
+        "title": "Active listening and summarising",
+        "description": "Repeat back what a friend meant",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-3-7",
+        "title": "Managing test nerves",
+        "description": "Practise positive self-talk and pacing",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-3-8",
+        "title": "Planning a mini family chore swap",
+        "description": "Negotiate fair shared responsibilities",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 4": [
+      {
+        "id": "life-skills-grade-4-1",
+        "title": "Goal setting with milestones",
+        "description": "Turn a big goal into weekly check-ins",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-4-2",
+        "title": "Digital footprint awareness",
+        "description": "Think before posting or sharing messages",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-4-3",
+        "title": "First aid basics",
+        "description": "Handle minor scrapes, burns, and calling help",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-4-4",
+        "title": "Budgeting for an outing",
+        "description": "Plan snacks, tickets, and emergency buffer",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-4-5",
+        "title": "Teamwork roles",
+        "description": "Lead, listen, and split tasks fairly in groups",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-4-6",
+        "title": "Spotting ads vs real info",
+        "description": "Notice when videos are trying to sell something",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "life-skills-grade-4-7",
+        "title": "Handling constructive feedback",
+        "description": "Use advice to improve without shutting down",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-4-8",
+        "title": "Cooking a balanced simple meal",
+        "description": "Combine protein, grains, and vegetables safely",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 5": [
+      {
+        "id": "life-skills-grade-5-1",
+        "title": "Prioritising urgent vs important",
+        "description": "Plan a week without last-minute panic",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-5-2",
+        "title": "Media literacy and fact-checking",
+        "description": "Check who wrote a claim and what proof exists",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-5-3",
+        "title": "Understanding bank cards and saving",
+        "description": "Compare cash, debit, and saving interest",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-5-4",
+        "title": "Conflict mediation",
+        "description": "Help two friends find a win-win compromise",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "life-skills-grade-5-5",
+        "title": "Sleep, nutrition, and focus",
+        "description": "See how rest and hydration boost memory",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-5-6",
+        "title": "Public speaking confidence",
+        "description": "Use posture, pacing, and eye contact",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-5-7",
+        "title": "Eco-friendly household habits",
+        "description": "Track waste, energy, and smart reuse",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-5-8",
+        "title": "Independent study strategies",
+        "description": "Quiz yourself instead of just re-reading",
+        "difficulty": "Challenge"
+      }
+    ],
+    "Grade 6": [
+      {
+        "id": "life-skills-grade-6-1",
+        "title": "Managing stress and big transitions",
+        "description": "Prepare calmly for middle-school routines",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-6-2",
+        "title": "Personal finance: budgets and scams",
+        "description": "Spot phishing tricks and track monthly cash",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-6-3",
+        "title": "Critical thinking online",
+        "description": "Verify sources and avoid echo chambers",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-6-4",
+        "title": "Effective note-taking systems",
+        "description": "Use Cornell notes and visual mind maps",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-6-5",
+        "title": "Healthy boundaries in friendships",
+        "description": "Communicate respect and personal limits",
+        "difficulty": "Core"
+      },
+      {
+        "id": "life-skills-grade-6-6",
+        "title": "Civic volunteering and leadership",
+        "description": "Organise a real community improvement step",
+        "difficulty": "Challenge"
+      },
+      {
+        "id": "life-skills-grade-6-7",
+        "title": "Basic sewing, repair, and upkeep",
+        "description": "Fix a loose button and care for gear",
+        "difficulty": "Starter"
+      },
+      {
+        "id": "life-skills-grade-6-8",
+        "title": "Decision matrices",
+        "description": "Weigh pros, cons, and long-term impact",
+        "difficulty": "Challenge"
+      }
+    ]
+  }
+}
